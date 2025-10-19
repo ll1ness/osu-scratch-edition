@@ -16,6 +16,8 @@ Check out osu! Mania v3 by @OliBomby
 Check out osu! Taiko by @JInkusuSPL
 • https://scratch.mit.edu/projects/1067424534/
 
+<img width="861" height="556" alt="изображение" src="https://github.com/user-attachments/assets/f7e1b7e3-f791-4741-89f1-351e8a6dc5a3" />
+
 Beatmaps are changed every once in a while. Feel free to give suggestions in the comments!
 
 ### How to play:
